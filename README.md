@@ -8,6 +8,8 @@ Logo que rodar o codigo você digitará a quantidade de dias que deseja analisar
 
 Será disponibilizado um  dos dataframes utilizados no codigo.
 
+Necessário instalar bilioteca pandas
+
 
 #################################------################################
 
@@ -20,3 +22,6 @@ As soon as you run the code you will type the number of days you want to analyze
 
 
 One of the dataframes used in the code will be available.
+
+Need to install pandas library
+
